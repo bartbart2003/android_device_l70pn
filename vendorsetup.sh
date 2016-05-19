@@ -22,4 +22,4 @@
 
 #dd_lunch_combo full_mb526-eng
 add_lunch_combo cm_l70pn-userdebug
-
+add_lunch_combo pac_l70pn-userdebug
